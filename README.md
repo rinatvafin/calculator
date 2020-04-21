@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ssanka/PartsUnlimitedMy/_apis/build/status/rinatvafin.calculator?branchName=master)](https://dev.azure.com/ssanka/PartsUnlimitedMy/_build/latest?definitionId=4&branchName=master)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
